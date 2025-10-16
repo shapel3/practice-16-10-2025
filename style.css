@@ -9,4 +9,20 @@
 
 .fruits > li {
     padding: 10px;
+
+}
+
+.line{
+    width: 30%;
+    height: 100px;
+    background-color: hotpink;
+    transition: width 1s;
+
+}
+
+.sizes > li {
+    padding: 10px;
+}
+.sizes > li:hover {
+    background-color: blueviolet;
 }
