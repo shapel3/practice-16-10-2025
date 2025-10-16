@@ -1,0 +1,12 @@
+.box {
+    background-color: grey;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    line-height: 200px;
+
+}
+
+.fruits > li {
+    padding: 10px;
+}
